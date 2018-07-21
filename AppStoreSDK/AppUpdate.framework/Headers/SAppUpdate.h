@@ -31,6 +31,6 @@
  @param callback 检查更新回调
  * needUpdate表示是否需要更新，如果需要更新，更新的处理已经在SDK内部实现 callback会在进行更新前调用，callback中可以做一些保存操作等。
  */
-- (void)checkUpdateWith:(nullable void (^)(Boolean needUpdate))callback;
+- (void)checkUpdateWith:(nullable void (^)(BOOL needUpdate))callback;
 
 @end
