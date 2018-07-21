@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AppStoreSDK"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "iOS分发平台 SDK"
 
   # This description is used to generate tags and improve search results.
