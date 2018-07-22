@@ -10,12 +10,12 @@ pod "AppStoreSDK"
 ```
 
 ## Usage
-- **import**
+- **Import**
 
 ```obj-c
 #import <AppUpdate/AppUpdate.h>
 ```
-- **start**
+- **Get start**
 
 ```obj-c
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
@@ -29,7 +29,7 @@ pod "AppStoreSDK"
     return YES;
 }
 ```
-- **or**
+- **You can use it anywhere you want to check for updates**
 
 ```obj-c
 - (IBAction)checkUpdate:(id)sender {
