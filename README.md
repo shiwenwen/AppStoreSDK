@@ -81,7 +81,7 @@ pod "AppStoreSDK"
 
 ## Author
 
-Michael Waterfall, shiwenwendevelop@163.com
+石文文, shiwenwendevelop@163.com
 
 ## License
 
